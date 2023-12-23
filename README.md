@@ -8,11 +8,16 @@ This portfolio is a curated display of my work and projects, reflecting my exper
 
 ### 1. ⚽ FIFA 2022 Analysis
 - **Brief:** This project is dedicated to enhancing the FIFA 2022 gaming experience for the
-wider player community. We specialize in providing insights, statistics and
+wider player community. We specialize in providing insights, statistics, and
 advanced gameplay options based on real-time and historical player data.
 - **Tech Stack:** _Oracle SQL, Python, Tableau_
 - **🔗 [View Project](https://github.com/sYzYgYcc/Yaochen-Yu-s-Portfolio/blob/main/FIFA%20_2022%20_Analysis%20_Report%20(1).pdf)**
-
+  
+### 2. 🏈 NFL Big Data Bowl 2024 Analysis
+- **Brief:** This project is based on the Kaggle NFL Big Data Bowl 2024 competition.
+  We specialize in providing insights and statistics about NFL players.
+- **Tech Stack:** _Python_
+- **🔗 [View Project](https://www.kaggle.com/yaochenyu/nfl-analysis)**
 
 ## 👤 About Me
 🔍 Data-Driven | 🚀 Motivated | 🤝 Collaborative
